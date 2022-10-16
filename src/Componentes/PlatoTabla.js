@@ -32,7 +32,7 @@ export const PlatoTabla=(props)=>{
                                 <td>{calificacion}</td>
                                 <td>{precio}</td>
                                 <td>{procedencia}</td>
-                                <td><img  className="img-fluid" src={imagen} alt=''/> </td>
+                                <td><img  alt="imagen" className="img-fluid" src={imagen} /> </td>
 
 
                             </tr>

@@ -8,7 +8,7 @@ export const data={
         {id:5, nombre:'Pollo a la brasa', descripcion:'Plato de pollo horneado a la brasa con papas fritas y cremas', precio:20,procedencia:'Costa',calificacion:7,imagen:'https://larepublica.pe/resizer/eTOjbXKZjutXj8I7hlzpRWyEnAA=/538x0/top/larepublica.pe/resizer/QPLsfGCXbHoWOFoomOTBpi1XC-8=/538x0/top/smart/cloudfront-us-east-1.images.arcpublishing.com/gruporepublica/XXTTFFHMLFBHFID3VO5UDTG4UI.png'},
         {id:6, nombre:'Lomo Saltado', descripcion:'Plato a base de carne salteada con cebolla y tomate, acompañado de arroz y papas fritas', precio:34,procedencia:'Costa',calificacion:9,imagen:'https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Lomo-saltado-perudelights.jpg/640px-Lomo-saltado-perudelights.jpg'},
         {id:7, nombre:'Cuy frito', descripcion:'Plato a base de cuy frito con papas aderesadas y arroz de trigo', precio:40,procedencia:'Sierra',calificacion:5,imagen:'https://i.ytimg.com/vi/1ljbIGZtumw/maxresdefault.jpg'},
+        {id:8, nombre:'Pizza Hawaiana', descripcion:'Plato a base de harina, queso y piña', precio:5,procedencia:'Internacional',calificacion:5,imagen:'https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2019/11/como-hacer-pizza-hawaiana.jpg'}
+
     ]
-
-
 }
