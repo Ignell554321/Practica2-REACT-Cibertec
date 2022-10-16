@@ -1,4 +1,4 @@
-import { PlatoTabla } from "./PlatoTabla";
+import { Plato } from "./Plato";
 
 export const PlatosM10=(props)=>{
 
@@ -12,7 +12,7 @@ export const PlatosM10=(props)=>{
 
         <h2>Platos menor a 10 soles</h2>
 
-           <PlatoTabla  plato3={platosMenor10Items}/>
+           <Plato  platos3={platosMenor10Items} menor10={false}/>
             
 
             

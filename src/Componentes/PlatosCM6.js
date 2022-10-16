@@ -16,7 +16,7 @@ export class PlatosCM6 extends Component{
     
             <h2>Platos con calificacion mayor a 6</h2>
     
-               <PlatoTabla  plato3={this.platosCM6}/>
+               <PlatoTabla  plato3={this.platosCM6} />
                 
     
                 
